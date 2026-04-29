@@ -5,7 +5,7 @@
 > Data wizard by day, synth lord by night.
 
 Data Analyst in training with a background in creative entrepreneurship.
-Currently sharpening my skills in SQL, Python, and Power BI through.
+Currently sharpening my skills in SQL, Python, and Power BI.
 
 ---
 
