@@ -1,1 +1,1 @@
-![snake gif](https://github.com/iswaidy/iswaidy/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/iSwaidy/Swaidy/output/github-contribution-grid-snake-dark.svg)
