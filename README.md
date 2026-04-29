@@ -5,8 +5,7 @@
 > Data wizard by day, synth lord by night.
 
 Data Analyst in training with a background in creative entrepreneurship.
-Currently sharpening my skills in SQL, Python, and Power BI through Year Up United's Data Analytics track.
-I bring an eye for patterns — whether it's in a dataset or a drum pattern.
+Currently sharpening my skills in SQL, Python, and Power BI through.
 
 ---
 
