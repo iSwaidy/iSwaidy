@@ -1,6 +1,6 @@
 ![snake gif](https://raw.githubusercontent.com/iSwaidy/Swaidy/output/github-contribution-grid-snake-dark.svg)
 
-# Hey, I'm Cris — iSwaidy 👋
+# Hey, I'm Cris 👋
 
 > Data wizard by day, synth lord by night.
 
